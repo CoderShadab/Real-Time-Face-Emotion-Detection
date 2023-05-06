@@ -6,7 +6,7 @@ Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition
 
 # just run the main.py 
 
-dependency: 
+dependency(must have installed in your python): 
 1. numpy
 2. keras
 3. opencv
