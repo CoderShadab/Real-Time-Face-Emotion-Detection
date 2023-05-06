@@ -5,3 +5,10 @@ Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition
 # change the location path of "Model.h5" and "haarcascade_frontalface_default.xml" 
 
 # just run the main.py 
+
+dependency: 
+1. numpy
+2. keras
+3. opencv
+4. matplotlib
+5. pandas
